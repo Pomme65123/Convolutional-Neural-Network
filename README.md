@@ -52,7 +52,7 @@ Place the downloaded file in the project root directory.
 
 The project includes a Python script to automatically download and prepare the MNIST dataset in the required binary format.
 
-### Automatic Setup (Recommended)
+### Automatic Setup
 
 1. Install Python dependencies:
 
