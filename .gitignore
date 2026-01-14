@@ -1,0 +1,9 @@
+stb_image_write.h
+a.out
+mnist_cnn
+.vscode/
+data/*.bin
+data/metadata.txt
+data/MNIST/
+mnist_data/
+__pycache__/
