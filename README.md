@@ -158,4 +158,4 @@ The implementation includes custom backward passes for:
 
 ## Performance
 
-Typical accuracy after one epoch: ~85-95% on MNIST test set.
+Typical accuracy after one epoch: ~85-90% on MNIST test set.
